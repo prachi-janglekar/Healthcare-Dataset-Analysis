@@ -32,7 +32,8 @@ This project demonstrates SQL-based analysis on a **Healthcare Management System
 ### 3.Billing Status using Join
 ![Billing Status using Join](https://github.com/prachi-janglekar/Healthcare-Dataset-Analysis/blob/main/Screenshot%20(101).png?raw=true)
 
-
+### 4.Sum of Bills and Paid Amount
+![Sum of Bills and Paid Amount](https://github.com/prachi-janglekar/Healthcare-Dataset-Analysis/blob/main/Screenshot%20(102).png?raw=true)
 
 
 ## 🔍 Analysis and Queries Overview
