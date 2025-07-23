@@ -22,6 +22,9 @@ This project demonstrates SQL-based analysis on a **Healthcare Management System
 - **`prescriptions`** – Medications prescribed during appointments  
 
 ---
+## Visuals Representation
+![Healthcare Dataset Analysis](https://github.com/prachi-janglekar/Healthcare-Dataset-Analysis/blob/main/Screenshot%20(100).png?raw=true)
+
 
 ## 🔍 Analysis and Queries Overview
 
