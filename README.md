@@ -23,7 +23,7 @@ This project demonstrates SQL-based analysis on a **Healthcare Management System
 
 ---
 ## Visuals Representation
-### 1.Patients Table View
+### 1.Appointment Table View
 ![Healthcare Dataset Analysis](https://github.com/prachi-janglekar/Healthcare-Dataset-Analysis/blob/main/Screenshot%20(100).png?raw=true)
 
 
