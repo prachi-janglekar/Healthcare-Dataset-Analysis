@@ -26,8 +26,12 @@ This project demonstrates SQL-based analysis on a **Healthcare Management System
 ### 1.Appointment Table View
 ![Healthcare Dataset Analysis](https://github.com/prachi-janglekar/Healthcare-Dataset-Analysis/blob/main/Screenshot%20(100).png?raw=true)
 
-### Patients Table View
+### 2.Patients Table View
 ![Patients table view](https://github.com/prachi-janglekar/Healthcare-Dataset-Analysis/blob/main/Screenshot%20(99).png?raw=true)
+
+### 3.Billing Status using Join
+![Billing Status using Join](https://github.com/prachi-janglekar/Healthcare-Dataset-Analysis/blob/main/Screenshot%20(101).png?raw=true)
+
 
 
 
